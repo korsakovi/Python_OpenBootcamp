@@ -1,0 +1,4 @@
+peso = int(input("¿Cual es tu peso? "))
+altura = float(input("¿Cual es tu altura en metros? ")
+masaCorporal = peso // altura **2
+print("Tu índice de masa corporal es: " + str(masaCorporal))
